@@ -110,7 +110,7 @@ p{
 
 .score {
     font-size: large;
-    margin-top: 1px;
+    margin-top: 10px;
 }
 
 .reset {
@@ -127,6 +127,14 @@ p{
     background-color: gray;
     transform: scale(1.1); 
 }
+
+#message {
+    font-size: 16px;  
+    font-weight: normal; 
+    text-align: center;
+    margin-top: 10px;
+}
+
 
 
 
