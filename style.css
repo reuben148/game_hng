@@ -10,7 +10,7 @@ body {
 
 .container {
     width: 500px;
-    height: 520px;
+    height: 540px;
     max-width: 400px; 
     padding: 16px; 
     background: black;
@@ -116,7 +116,7 @@ p{
 .reset {
     text-align: center;
     border: 2px solid;
-    margin-left: 145px;
+    margin-left: 140px;
     height: 40px;
     border-radius: 10px;
     background-color:gray;
