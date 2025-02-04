@@ -1,0 +1,11 @@
+Guessing color game
+
+Built a guessing game using html vanilla css and javascript 
+
+Html- for the ui/ux user interface and user interface
+css- for the deisgn of the work
+javascript- for the interaction of buttons etc
+
+features:
+The game is mainly for color guessing you pick the specific color that matches the displayed color 
+and then you get it correct

@@ -1,0 +1,132 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:white;
+    margin: 0;
+}
+
+
+.container {
+    width: 500px;
+    height: 480px;
+    max-width: 400px; 
+    padding: 16px; 
+    background: black;
+    border: 1px solid #ddd; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+
+p{
+    font-family: "Times New Roman", Georgia, serif;
+    font-size:xx-large;
+    text-align: center;
+    margin-top: -5px;
+    color: azure;
+}
+
+.border {
+    border: 1px solid blue;
+    height: 100px;
+    width: auto;
+    border-radius: 20px;
+    background-color: blue;
+}
+
+.click {
+    margin-top: 10px;
+    font-size:large ;
+}
+
+
+.begin {
+    font-size: x-large;
+    color:slategray;
+}
+
+.btn {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px; 
+    max-width: 300px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    margin-left: 40px;
+}   
+
+
+#red {
+    border: 1px solid red;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: red;
+}
+
+#blue {
+    border: 1px solid blue;
+    width: 100px;
+    height: 60px;  
+    border-radius: 15px; 
+    background-color: blue;
+}
+
+#green {
+    border: 1px solid green;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: green;
+}
+
+#yellow {
+    border: 1px solid yellow;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: yellow;
+}
+
+#purple {
+    border: 1px solid purple;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: purple;
+}
+
+#gray {
+    border: 1px solid gray;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: gray;
+}
+
+.score {
+    font-size: large;
+    margin-top: 1px;
+}
+
+.reset {
+    text-align: center;
+    border: 2px solid;
+    margin-left: 145px;
+    height: 40px;
+    border-radius: 10px;
+    background-color:gray;
+    color: whitesmoke;
+}
+
+.reset:hover {
+    background-color: gray;
+    transform: scale(1.1); 
+}
+
+
+
