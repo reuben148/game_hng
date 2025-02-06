@@ -45,7 +45,7 @@ buttons.forEach(button => {
     });
 });
 
-
+// Restart the game
 resetButton.addEventListener("click", () => {
     score = 0;
     startGame();
